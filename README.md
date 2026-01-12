@@ -1,8 +1,6 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=160&section=header&text=Welcome%20to%20Sunmin's%20GitHub&fontSize=36&fontColor=ffffff"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=160&section=header&text=Welcome%20to%20Sunmin's%20GitHub&fontSize=36&fontColor=ffffff" />
 
 <br/>
 
@@ -35,7 +33,7 @@ React 중심으로 웹 개발 역량을 키우고 있으며, 매일 학습 기�
 
 <div align="center">
 
-## Tech Stack
+## 🧩 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&perline=7" />
 
@@ -45,7 +43,7 @@ React 중심으로 웹 개발 역량을 키우고 있으며, 매일 학습 기�
 
 <div align="center">
 
-## Links
+## 🔗 Links
 
 <a href="https://github.com/akan787/portfolio">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -60,10 +58,13 @@ React 중심으로 웹 개발 역량을 키우고 있으며, 매일 학습 기�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akan787&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=1800" />
+## 📊 GitHub Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akan787&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akan787&theme=tokyonight" />
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akan787&layout=compact&theme=tokyonight&cache_seconds=1800" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akan787&theme=tokyo-night&hide_border=true&radius=12&cache_seconds=1800" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akan787&theme=tokyo-night&hide_border=true&radius=12" />
 
 </div>
