@@ -20,7 +20,7 @@ React 중심으로 웹 개발 역량을 키우고 있으며, 매일 학습 기�
 <a href="https://instagram.com/sunmin_787">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.notion.so/2da05850783c80b2b91cf277b2ea7242?showMoveTo=true">
+<a href="https://www.notion.so/2da05850783c80b2b91cf277b2ea7242">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 <a href="mailto:tjsals78700@gmail.com">
@@ -61,5 +61,7 @@ React 중심으로 웹 개발 역량을 키우고 있으며, 매일 학습 기�
 <img src="https://github-readme-stats.vercel.app/api?username=akan787&show_icons=true&theme=tokyonight&hide_title=true" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akan787&layout=compact&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akan787&theme=tokyo-night&hide_border=true&radius=12" />
 
 </div>
