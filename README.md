@@ -53,3 +53,13 @@ React 중심으로 웹 개발 역량을 키우고 있으며, 매일 학습 기�
 </a>
 
 </div>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akan787&theme=tokyo-night&hide_border=true" />
+
+</div>
