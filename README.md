@@ -5,7 +5,7 @@
 <br/>
 
 풀스택 엔지니어를 목표로 공부 중입니다.  
-React 중심으로 웹 개발 역량을 키우고 있으며, 매일 학습 기록을 남기고 있습니다.  
+React 중심으로 웹 개발 역량을 키우고 있으며, 매일 학습 기록을 남기고 있습니다.
 
 📌 목표: 프론트엔드 기반 풀스택 엔지니어로 성장
 
@@ -51,20 +51,5 @@ React 중심으로 웹 개발 역량을 키우고 있으며, 매일 학습 기�
 <a href="https://github.com/akan787/TIL">
   <img src="https://img.shields.io/badge/TIL-22C55E?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akan787&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akan787&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akan787&theme=tokyo-night&hide_border=true&radius=12" />
 
 </div>
